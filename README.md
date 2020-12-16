@@ -16,7 +16,7 @@
 <a href="https://www.codechef.com/users/ronakzerocool" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ronakzerocool" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ronakzerocool" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ronakzerocool" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ronakzerocool" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ronakzerocool" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/ronakzerocool" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="ronakzerocool" height="30" width="40" /></a>
+<a href="http://www.hackerearth.com/@ronakzerocool" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="ronakzerocool" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
